@@ -15,4 +15,3 @@ Tools Used
 - [BeautifulSoup (bs4)](https://pypi.org/project/beautifulsoup4/)
 
  Project Structure
-
